@@ -25,11 +25,11 @@ MellaMate is a blockchain-based global payment platform developed as a Final Yea
 
 ## Team Members
 
-* Yeabsira Mekonnen (ETS1641/14)
-* Yeabsira G/Mechael (ETS1644/14)
-* Yeabsira Zelalem (ETS1655/14)
-* Yetnayet Lakew (ETS1673/14)
-* Yohana Mekuria (ETS1697/14)
+* Yeabsira Mekonnen 
+* Yeabsira G/Mechael
+* Yeabsira Zelalem 
+* Yetnayet Lakew
+* Yohana Mekuria
 
 ## Academic Information
 
